@@ -2,7 +2,7 @@
 name: 推薦資源
 about: 推薦一個網站、工具或教學，我們幫你加進清單
 title: "[推薦] "
-labels: suggestion
+labels: enhancement
 ---
 
 **名稱：**
